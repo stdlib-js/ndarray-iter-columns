@@ -134,10 +134,10 @@ arr = ndarray2array( v );
 // returns [ 10, 3 ]
 ```
 
-The returned iterator protocol-compliant object has the following properties:
+The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the following properties:
 
--   **next**: function which returns an iterator protocol-compliant object containing the next iterated value (if one exists) assigned to a `value` property and a `done` property having a `boolean` value indicating whether the iterator is finished.
--   **return**: function which closes an iterator and returns a single (optional) argument in an iterator protocol-compliant object.
+-   **next**: function which returns an [iterator][mdn-iterator-protocol] protocol-compliant object containing the next iterated value (if one exists) assigned to a `value` property and a `done` property having a `boolean` value indicating whether the [iterator][mdn-iterator-protocol] is finished.
+-   **return**: function which closes an [iterator][mdn-iterator-protocol] and returns a single (optional) argument in an [iterator][mdn-iterator-protocol] protocol-compliant object.
 
 </section>
 
@@ -278,6 +278,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/ndarray-iter-columns/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-iter-columns/main/LICENSE
+
+[mdn-iterator-protocol]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol
 
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/stdlib
 
