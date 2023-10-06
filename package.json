@@ -42,6 +42,7 @@
     "@stdlib/assert-is-boolean": "^0.1.1",
     "@stdlib/assert-is-ndarray-like": "^0.1.0",
     "@stdlib/assert-is-plain-object": "^0.1.1",
+    "@stdlib/ndarray-base-next-cartesian-index": "github:stdlib-js/ndarray-base-next-cartesian-index#main",
     "@stdlib/ndarray-base-numel": "^0.1.1",
     "@stdlib/ndarray-base-slice": "github:stdlib-js/ndarray-base-slice#main",
     "@stdlib/slice-multi": "^0.1.0",
