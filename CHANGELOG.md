@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-08-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fdbc822`](https://github.com/stdlib-js/stdlib/commit/fdbc82241f30438af95d53f451c1c4cd4523859f) - **chore:** remove unnecessary `format` calls [(#14520)](https://github.com/stdlib-js/stdlib/pull/14520) _(by Philipp Burckhardt)_
 -   [`65f9d6f`](https://github.com/stdlib-js/stdlib/commit/65f9d6fd963809f82e54cdfd06ed15e15b51525e) - **refactor:** align `ndarray/*` errors and remove `namespace` self-ref [(#12102)](https://github.com/stdlib-js/stdlib/pull/12102) _(by Philipp Burckhardt)_
 -   [`6d6b9d4`](https://github.com/stdlib-js/stdlib/commit/6d6b9d42d8904ca49fb55e2ca464780573886aa0) - **bench:** refactor to use string interpolation in `@stdlib/ndarray` [(#11446)](https:-/github.com/stdlib-js/stdlib/pull/11446) _(by Karan Anand)_
 
